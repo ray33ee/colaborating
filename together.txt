@@ -1,0 +1,1 @@
+My capstone project is about understanding, predicting and preventing customer churn (the loss of customers from a business)
